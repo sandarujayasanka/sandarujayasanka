@@ -7,17 +7,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-
-- 🌱 I’m currently learning **React**
-
-- 🧑‍🎓 I’m an Hndit at **SLIATE**
-
-- 💬 Ask me about **C#**
-
-- 🤝 I’m looking for help with **Frontend Design**
-
-- 📫 How to reach me **sandarudesilva003@gmail.com**
+- 🌱 I’m currently learning **React**  
+- 🧑‍🎓 Studying **HNDIT at SLIATE**  
+- 💬 Ask me about **C# & PHP**  
+- 🤝 I’m looking to collaborate on **Frontend & Fullstack Projects**  
+- 📫 Reach me at **sandarudesilva003@gmail.com**
 </td>
+
 <td width="50%" align="center">
 
   <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = "420" height="240">
