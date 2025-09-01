@@ -7,13 +7,15 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🌱 I’m currently learning **React**  
-- 🧑‍🎓 Studying **HNDIT at SLIATE**  
-- 💬 Ask me about **C# & PHP**  
-- 🤝 I’m looking to collaborate on **Frontend & Fullstack Projects**  
-- 📫 Reach me at **sandarudesilva003@gmail.com**
+
+🌱 I’m currently learning **React** <br>  
+🧑‍🎓 Studying **HNDIT at SLIATE** <br>  
+💬 Ask me about **C# & PHP** <br>  
+🤝 I’m looking to collaborate on **Frontend & Fullstack Projects** <br>  
+📫 Reach me at **sandarudesilva003@gmail.com**
 
 </td>
+
 
 <td width="50%" align="center">
 
