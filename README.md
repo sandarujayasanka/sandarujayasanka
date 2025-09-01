@@ -12,6 +12,7 @@
 - 💬 Ask me about **C# & PHP**  
 - 🤝 I’m looking to collaborate on **Frontend & Fullstack Projects**  
 - 📫 Reach me at **sandarudesilva003@gmail.com**
+
 </td>
 
 <td width="50%" align="center">
