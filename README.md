@@ -10,9 +10,9 @@
   
   - 🌱 I’m currently learning **React** 
   - 🧑‍🎓 I’m an Hndit at **SLIATE**
-  - 💬 Ask me about **C#**
-  - 🤝 I’m looking for help with **Frontend Design** 
-  - 📫 How to reach me **sandarudesilva003@gmail.com**
+  - 💬 Ask me about **C# & PHP** 
+  - 🤝 I’m looking to collaborate on **Frontend & Fullstack Projects** 
+  - 📫 Reach me at **sandarudesilva003@gmail.com**
 
 </td>
 
