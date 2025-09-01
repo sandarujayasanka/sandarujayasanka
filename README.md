@@ -30,11 +30,36 @@
 
 
 <h2 align="center">Skills </h2>
-<p align="center"><a href= https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=python&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=javascript&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=csharp&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=css&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=html&sort= > <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a></p>
+<p align="center">
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=python&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=javascript&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=csharp&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=css&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=html&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=java&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=php&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=mysql&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+  </a>
+  <a href="https://github.com/sandarujayasanka?tab=repositories&q=&type=&language=react&sort=">
+    <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+  </a>
+</p>
+
 
 <br>
 <h2 align="center"> Connect with me </h2>
