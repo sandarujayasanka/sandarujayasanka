@@ -69,7 +69,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru_jayasank" height="50" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/sandaru-jayasanka-56657b336/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sandaru jayasanka" height="50" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru jayasanka" height="50" width="60" />
   </a>
 </p>
 
